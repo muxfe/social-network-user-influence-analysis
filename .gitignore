@@ -10,3 +10,15 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# data
+aminer/*.txt
+aminer/*.json
+aminer/*.csv
+nltk/*.txt
+nltk/*.json
+nltk/*.csv
+
+# GibbsLDA/C++
+lda/*.o
+lda/lda
